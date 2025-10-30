@@ -49,7 +49,7 @@ Install from **Arduino Library Manager**:
 ## 🛠️ How to Build (Arduino IDE)
 
 1. **Tools → Board:** pick your ESP32 model (e.g., *ESP32 Dev Module*).
-2. **Select Board as (file -> preferences -> addional board manager url)** and past https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json 
+2. **Select Board as (file -> preferences -> addional board manager url)** and paste https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json 
 3. Go to Select Board section from Arduino IDE and select **ESP32 Dev Module**
 4.  **Sketch → Include Library → Manage Libraries…**
    Install **Adafruit GFX** and **Adafruit SSD1306**.
