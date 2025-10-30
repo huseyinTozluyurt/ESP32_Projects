@@ -6,6 +6,7 @@ Each “scene” (title + shape) is shown for 1500 ms, then the screen is cleare
 > Works great as a starting template for your own OLED UI experiments.
 
 ---
+![ol1](https://github.com/user-attachments/assets/c7bc2a2b-cdc3-4f29-8d0b-0a991b565368)
 
 ## ✨ Features
 
@@ -234,7 +235,6 @@ Feel free to use, modify, and share.
 ### ⭐ If this helped you…
 
 Give the repo a star and share a photo/GIF of your OLED running the demo!
-![ol1](https://github.com/user-attachments/assets/c7bc2a2b-cdc3-4f29-8d0b-0a991b565368)
 ![ol2](https://github.com/user-attachments/assets/568fee11-f407-4f04-aa4f-a792ad2ce20e)
 ![ol3](https://github.com/user-attachments/assets/9214427d-2a66-4492-910d-566edd4c9b2b)
 ![ol4](https://github.com/user-attachments/assets/b596124a-b355-4247-82e7-2acee882eab3)
