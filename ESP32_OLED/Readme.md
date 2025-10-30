@@ -234,3 +234,5 @@ Feel free to use, modify, and share.
 ### ⭐ If this helped you…
 
 Give the repo a star and share a photo/GIF of your OLED running the demo!
+
+![ol4](https://github.com/user-attachments/assets/b596124a-b355-4247-82e7-2acee882eab3)
